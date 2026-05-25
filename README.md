@@ -33,6 +33,6 @@ I'm passionate about backend development, artificial intelligence, and turning i
 
 ## 📫 Connect with Me
 - LinkedIn: linkedin.com/in/hassan-aftah
-- Email: your.email@example.com
+- Email: aftahhassan25@gmail.com
 
 ⚡ Fun Fact: I enjoy building web applications and exploring the intersection of AI and software development.
