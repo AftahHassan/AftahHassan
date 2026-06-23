@@ -32,7 +32,7 @@ I'm passionate about backend development, artificial intelligence, and turning i
 - Software Architecture
 
 ## 📫 Connect with Me
-- LinkedIn: linkedin.com/in/hassan-aftah
+- LinkedIn: www.linkedin.com/in/hassan-aftah
 - Email: aftahhassan25@gmail.com
 
 ⚡ Fun Fact: I enjoy building web applications and exploring the intersection of AI and software development.
