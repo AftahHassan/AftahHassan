@@ -239,11 +239,11 @@ Data Scientist • AI Engineer • Backend Developer (Laravel & Python)
 
 <p align="left">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/AftahHassan">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/hassan-aftah/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
