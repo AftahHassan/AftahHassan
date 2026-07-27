@@ -100,7 +100,7 @@ I enjoy building intelligent applications that solve real-world problems using A
 
 # 📫 Connect with Me
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/hassan-aftah/)
+- 💼 LinkedIn:https://www.linkedin.com/in/hassan-aftah
 - 📧 Email: aftahhassan25@gmail.com
 
 ---
